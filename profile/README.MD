@@ -1,3 +1,5 @@
+Chevalier Clément - M1 INFO
+
 # Organisation du Projet
 
 Ce projet est divisé en deux parties distinctes : un front-end et un back-end. Chaque partie a son propre dépôt GitHub, mais elles fonctionnent ensemble pour offrir une solution complète.
